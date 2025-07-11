@@ -131,3 +131,25 @@
   font-size: 80px;
   font-weight: bold;
 }
+/* Extra performance */
+.testimonials {
+  padding: 60px 0;
+  text-align: center;
+}
+.testimonials h3 {
+  margin-bottom: 40px;
+  font-size: 1.5rem;
+}
+.testimonial-cards {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card {
+  background-color: #f1f5f9;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  text-align: left;
+}
