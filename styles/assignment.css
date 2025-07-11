@@ -1,0 +1,103 @@
+
+    .inter-normal {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800px;
+    font-style: normal;
+    }
+
+    .raleway-normal {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800px;
+    font-style: normal;
+    }
+
+    /* Nav Styles */
+    nav{
+        display: flex;
+        justify-content: space-between;
+        margin: 0px 150px;
+        align-items: center;
+    }
+    nav h3{
+    color: #4E47FF;
+    font-size: 34px;
+    font-weight: 800;
+    }
+    
+    .btn-primary{
+        color: white;
+        background-color:#4E47FF;
+        border-radius: 10px;
+        height: 48px;
+        width: 132px;
+        font-size: 16px;
+        font-weight: bold;
+        border: none;
+    
+    }
+    /* Header */
+    .header-bg{
+        background-image: url('../images/Hero-bg.png');
+    }
+
+    /* Banner styles */
+    .banner{
+        
+        margin: 158px 118px;
+        text-align: center;
+        
+    }
+    .banner-title{
+        color: #252432;
+        font-size: 65px;
+        font-weight: bold;
+    }
+    /* main section */
+    main{
+        max-width: 1140px;
+        margin: 0 auto;
+    }
+    /* Action Section Styles */
+    .action-section{
+    display: flex;
+    margin: 116px 141px 159px;
+    justify-content: space-between;
+    
+    }
+    .action-content{
+    width: 517px ;
+    height: 203px;
+
+    }
+    .action-title{
+        font-size: 42px;
+        font-weight: bold;
+        color: #252432;
+    }
+    .action-description{
+        font-size: 24px;
+        font-weight: 400;
+        color: #757575;
+    }
+    .action-profile-picture{
+        width: 403px;
+        height: 328px;
+    }
+    .action-button{
+        color: white;
+        background-color:#4E47FF;
+        border-radius: 10px;
+        padding: 12px 36px;
+        height: 48px;
+        width: 229px;
+        border: none;
+    }
+    .Productive-Users-Section{
+        border-radius: 10px;
+        padding: 50px 140px;
+        text-align: center;
+        
+    }
+   
